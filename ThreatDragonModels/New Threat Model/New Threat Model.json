@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-08-19",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Gollapudi Shilpa",
+    "description": "Threat model for the SecureNova AI platform covering human users, AI agents, OAuth M2M clients, LLM API keys, RAG pipeline services, and MCP server identities.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "SecureNova AI Identity Data Flowiagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data-flow diagram showing SecureNova AI identity components, communication flows, and trust boundaries."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
